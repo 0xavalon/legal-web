@@ -44,7 +44,7 @@ export default function EEAPrivacyPolicy() {
             Wind Technologies ("Pipes", "us", "we", "our") is responsible for
             the collection, use and disclosure of your personal information. If
             you have any questions about how we protect or use your data, please
-            email us at support@pipes.tech.
+            email us at compliance@pipes.tech.
           </p>
 
           <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">
@@ -449,7 +449,7 @@ export default function EEAPrivacyPolicy() {
             heavily dependent on your specific use of our Services. However, if
             you would like further information about who we have shared your
             data with, or to be provided with a list specific to you, you can
-            request this by writing to support@pipes.tech.
+            request this by writing to compliance@pipes.tech.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300">
@@ -671,8 +671,8 @@ export default function EEAPrivacyPolicy() {
             13. Contacting Us
           </h2>
           <p className="text-gray-700 dark:text-gray-300">
-            Please contact us at support@pipes.tech and let us know if you have
-            any questions or comments about our policies or practices.
+            Please contact us at compliance@pipes.tech and let us know if you
+            have any questions or comments about our policies or practices.
           </p>
         </div>
 

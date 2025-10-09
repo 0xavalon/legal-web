@@ -4,7 +4,7 @@ export default function LegalDocumentsLinks() {
   return (
     <div className="space-y-4">
       <Link
-        href="/terms/uae"
+        href="/terms-conditions/uae"
         className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 dark:hover:border-blue-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
       >
         <div className="flex justify-between items-center">
@@ -16,7 +16,7 @@ export default function LegalDocumentsLinks() {
       </Link>
 
       <Link
-        href="/terms/eea"
+        href="/terms-conditions/eea"
         className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-green-500 dark:hover:border-green-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
       >
         <div className="flex justify-between items-center">
@@ -28,7 +28,7 @@ export default function LegalDocumentsLinks() {
       </Link>
 
       <Link
-        href="/privacy/uae"
+        href="/privacy-policy/uae"
         className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 dark:hover:border-blue-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
       >
         <div className="flex justify-between items-center">
@@ -40,7 +40,7 @@ export default function LegalDocumentsLinks() {
       </Link>
 
       <Link
-        href="/privacy/eea"
+        href="/privacy-policy/eea"
         className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-green-500 dark:hover:border-green-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
       >
         <div className="flex justify-between items-center">

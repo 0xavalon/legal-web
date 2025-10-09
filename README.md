@@ -155,7 +155,7 @@ All pages include the Innovation Testing Licence disclaimer with 4 key points ab
 
 - **Bridge Terms**: <https://bridge.xyz/terms>
 - **Bridge Privacy**: <https://bridge.xyz/privacy>
-- **Support Email**: <support@pipes.tech>
+- **Support Email**: <compliance@pipes.tech>
 
 ## 📝 License
 
@@ -168,7 +168,7 @@ This is a proprietary legal documentation project. Please contact the maintainer
 ## 📞 Contact
 
 **Pipes Help Center**  
-Email: <support@pipes.tech>  
+Email: <compliance@pipes.tech>  
 Platform: Intercom
 
 ---

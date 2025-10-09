@@ -84,10 +84,10 @@ export default function Licenses() {
             For questions regarding our licence or regulatory status, please
             contact us at{" "}
             <a
-              href="mailto:support@pipes.tech"
+              href="mailto:compliance@pipes.tech"
               className="text-blue-600 dark:text-blue-400 hover:underline"
             >
-              support@pipes.tech
+              compliance@pipes.tech
             </a>
           </p>
         </div>

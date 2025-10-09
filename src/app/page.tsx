@@ -35,10 +35,10 @@ export default function Home() {
         <div className="mt-16 text-center text-sm text-gray-500 dark:text-gray-400">
           <p>For questions, contact us at</p>
           <a
-            href="mailto:support@pipes.tech"
+            href="mailto:compliance@pipes.tech"
             className="text-blue-600 dark:text-blue-400 hover:underline"
           >
-            support@pipes.tech
+            compliance@pipes.tech
           </a>
         </div>
       </div>
