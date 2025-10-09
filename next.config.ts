@@ -11,21 +11,21 @@ const nextConfig: NextConfig = {
         destination: "/",
         permanent: false,
       },
-      {
-        source: "/privacy-policy",
-        destination: "/",
-        permanent: false,
-      },
+      // {
+      //   source: "/privacy-policy",
+      //   destination: "/",
+      //   permanent: false,
+      // },
       {
         source: "/terms-and-conditions/uae",
         destination: "/",
         permanent: false,
       },
-      {
-        source: "/terms-and-conditions",
-        destination: "/",
-        permanent: false,
-      },
+      // {
+      //   source: "/terms-and-conditions",
+      //   destination: "/",
+      //   permanent: false,
+      // },
     ];
   }
 };
