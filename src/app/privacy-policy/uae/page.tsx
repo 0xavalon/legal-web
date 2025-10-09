@@ -4,7 +4,7 @@ export default function UAEPrivacyPolicy() {
       <div className="max-w-5xl mx-auto">
         <div className="mb-8">
           <a
-            href="/privacy"
+            href="/privacy-policy"
             className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline"
           >
             ← Back to Privacy Overview
@@ -678,7 +678,7 @@ export default function UAEPrivacyPolicy() {
 
         <div className="mt-8 text-center">
           <a
-            href="/privacy"
+            href="/privacy-policy"
             className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline"
           >
             ← Back to Privacy Overview

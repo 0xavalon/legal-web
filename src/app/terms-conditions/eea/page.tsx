@@ -6,7 +6,7 @@ export default function EEATermsOfService() {
       <div className="max-w-5xl mx-auto">
         <div className="mb-8">
           <a
-            href="/terms"
+            href="/terms-conditions"
             className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline"
           >
             ← Back to Terms Overview
@@ -1473,7 +1473,7 @@ export default function EEATermsOfService() {
 
         <div className="mt-8 text-center">
           <a
-            href="/terms"
+            href="/terms-conditions"
             className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline"
           >
             ← Back to Terms Overview
