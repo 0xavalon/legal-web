@@ -7,8 +7,8 @@ export default function Disclaimer({ variant = "yellow" }: DisclaimerProps) {
   const isRed = variant === "red";
 
   const containerClasses = isYellow
-    ? "bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-200 dark:border-yellow-800"
-    : "bg-red-50 dark:bg-red-900/30 border-l-4 border-red-500 dark:border-red-600";
+    ? "bg-yellow-50 dark:bg-yellow-900/20"
+    : "bg-red-50 dark:bg-red-900/30";
 
   const titleClasses = isYellow
     ? "text-yellow-900 dark:text-yellow-200"

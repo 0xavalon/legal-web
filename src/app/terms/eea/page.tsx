@@ -17,7 +17,7 @@ export default function EEATermsOfService() {
           EEA ToS 🇪🇺
         </h1>
 
-        <div className="bg-yellow-50 dark:bg-yellow-900/30 border-l-4 border-yellow-400 dark:border-yellow-500 p-6 rounded mb-8">
+        <div className="bg-yellow-50 dark:bg-yellow-900/30 p-6 rounded mb-8">
           <p className="text-yellow-800 dark:text-yellow-100 text-sm">
             Consumers are advised to read and understand the applicable Terms
             and Conditions when considering a product or service.
