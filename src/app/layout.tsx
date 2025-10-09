@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import ThemeToggle from "@/components/ThemeToggle";
+import Footer from "@/components/Footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -15,7 +16,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Pipes Legal Documents - Terms of Service & Privacy Policy",
-  description: "Pipes Terms of Service and Privacy Policy for UAE and EEA regions",
+  description:
+    "Pipes Terms of Service and Privacy Policy for UAE and EEA regions",
 };
 
 export default function RootLayout({
@@ -31,7 +33,8 @@ export default function RootLayout({
         <div className="fixed top-4 right-4 z-50">
           <ThemeToggle />
         </div>
-        {children}
+        <main>{children}</main>
+        <Footer />
       </body>
     </html>
   );

@@ -41,7 +41,7 @@ export default function TermsOfService() {
               specific definitions in the Glossary.
             </p>
             <Link
-              href="/terms-conditions/uae"
+              href="/terms-and-conditions/uae"
               className="inline-block bg-blue-600 dark:bg-blue-700 text-white px-6 py-3 rounded-lg hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
             >
               Read Full UAE ToS
@@ -64,7 +64,7 @@ export default function TermsOfService() {
               specific definitions in the Glossary.
             </p>
             <Link
-              href="/terms-conditions/eea"
+              href="/terms-and-conditions/eea"
               className="inline-block bg-green-600 dark:bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-700 dark:hover:bg-green-600 transition-colors"
             >
               Read Full EEA ToS

@@ -30,17 +30,6 @@ export default function Home() {
 
         {/* Legal Documents Links */}
         <LegalDocumentsLinks />
-
-        {/* Footer */}
-        <div className="mt-16 text-center text-sm text-gray-500 dark:text-gray-400">
-          <p>For questions, contact us at</p>
-          <a
-            href="mailto:compliance@pipes.tech"
-            className="text-blue-600 dark:text-blue-400 hover:underline"
-          >
-            compliance@pipes.tech
-          </a>
-        </div>
       </div>
     </div>
   );
