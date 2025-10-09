@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import ThemeToggle from "./ThemeToggle";
+import { NAVBAR_DATA } from "@/constant/components";
 
 export default function Navbar() {
   return (
@@ -12,23 +13,26 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <Image
-              src="/logo.svg"
-              alt="Pipes Logo"
-              width={120}
-              height={46}
+              src={NAVBAR_DATA.logo.src}
+              alt={NAVBAR_DATA.logo.alt}
+              width={NAVBAR_DATA.logo.width}
+              height={NAVBAR_DATA.logo.height}
               className="dark:invert"
               priority
             />
           </Link>
 
-          {/* Right side - Home link and Theme Toggle */}
+          {/* Right side - Navigation links and Theme Toggle */}
           <div className="flex items-center space-x-4">
-            <Link
-              href="/"
-              className="text-sm font-semibold text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors"
-            >
-              Home
-            </Link>
+            {NAVBAR_DATA.navigation.map((item) => (
+              <Link
+                key={item.href}
+                href={item.href}
+                className="text-sm font-semibold text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors"
+              >
+                {item.label}
+              </Link>
+            ))}
             <ThemeToggle />
           </div>
         </div>

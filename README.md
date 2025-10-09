@@ -169,8 +169,3 @@ This is a proprietary legal documentation project. Please contact the maintainer
 
 **Pipes Help Center**  
 Email: <compliance@pipes.tech>  
-Platform: Intercom
-
----
-
-*Last Updated: January 2025*

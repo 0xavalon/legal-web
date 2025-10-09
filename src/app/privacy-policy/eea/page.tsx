@@ -34,7 +34,7 @@ export default function EEAPrivacyPolicy() {
           1. Who we are
         </h2>
         <p className="text-gray-700 dark:text-gray-300">
-          Wind Technologies ("Pipes", "us", "we", "our") is responsible for the
+          UAB Wind Technologies ("Pipes", "us", "we", "our") is responsible for the
           collection, use and disclosure of your personal information. If you
           have any questions about how we protect or use your data, please email
           us at compliance@pipes.tech.
@@ -573,7 +573,7 @@ export default function EEAPrivacyPolicy() {
           11. Data Subject To Law
         </h2>
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>11.1</strong> Wind Technologies is located and operates its
+          <strong>11.1</strong> UAB Wind Technologies is located and operates its
           website in Vilnius, Žalgirio g. 88-101, LT-09303. Depending on where
           you live, the information that you provide and that this Site collects
           may be stored on servers that are outside of your state, province,
