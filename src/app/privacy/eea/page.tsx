@@ -15,7 +15,7 @@ export default function EEAPrivacyPolicy() {
           EEA PP 🇪🇺
         </h1>
 
-        <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-8 mb-8 prose prose-sm max-w-none">
+        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 prose prose-sm max-w-none">
           <p className="text-gray-600 dark:text-gray-400 mb-6">
             This Privacy Policy contains an overview of the collection, use, and
             disclosure of your personal data. In case the information covers

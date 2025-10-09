@@ -20,7 +20,7 @@ export default function ThirdPartyLegal() {
           Please find 3rd party ToS and PP:
         </p>
 
-        <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-8 mb-8 border-l-4 border-purple-500">
+        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 border-l-4 border-purple-500">
           <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-4">
             Bridge
           </h2>

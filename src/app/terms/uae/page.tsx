@@ -1,3 +1,5 @@
+import Disclaimer from "@/components/Disclaimer";
+
 export default function UAETermsOfService() {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-12 px-4 sm:px-6 lg:px-8">
@@ -22,43 +24,11 @@ export default function UAETermsOfService() {
           </p>
         </div>
 
-        <div className="bg-red-50 dark:bg-red-900/30 border-l-4 border-red-500 dark:border-red-600 p-6 rounded mb-8">
-          <h3 className="text-lg font-semibold text-red-900 dark:text-red-100 mb-4">
-            Disclaimer
-          </h3>
-          <div className="space-y-3 text-sm text-red-800 dark:text-red-100">
-            <p>
-              <strong>(i)</strong> The Licence held by Wind Technologies Ltd is
-              an Innovation Testing Licence (ITL) issued by the Dubai Financial
-              Services Authority (DFSA), which authorises the Firm solely to
-              test its services within the parameters approved under the DFSA
-              Testing Plan (Phase 1).
-            </p>
-            <p>
-              <strong>(ii)</strong> As the Licence is restricted to testing,
-              certain standard regulatory requirements and client protections
-              may not apply during this phase. Participants in the testing
-              environment acknowledge that they may have reduced rights and may
-              not be fully compensated for any losses incurred as part of the
-              testing activities.
-            </p>
-            <p>
-              <strong>(iii)</strong> The Firm will not undertake or process any
-              financial transactions until a designated Client Money Account has
-              been opened and approved, as per the DFSA Testing Plan.
-            </p>
-            <p>
-              <strong>(iv)</strong> Upon completion of the testing phase and
-              removal of licence restrictions, the Firm will execute and
-              implement a new set of Terms & Conditions governing the full-scale
-              authorised operations. All clients will be required to review and
-              accept the revised Terms & Conditions prior to continuing any
-              services.
-            </p>
-          </div>
+        <div className="mb-8">
+          <Disclaimer variant="red" />
         </div>
 
-        <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-8 mb-8 prose prose-sm max-w-none">
+        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 prose prose-sm max-w-none">
           <p className="text-gray-600 dark:text-gray-400">
             The headings are for reference only. Some capitalized terms have
             specific definitions in the Glossary.

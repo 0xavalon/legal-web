@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Disclaimer from "@/components/Disclaimer";
 
 export default function TermsOfService() {
   return (
@@ -21,44 +22,12 @@ export default function TermsOfService() {
         </p>
 
         {/* Disclaimer */}
-        <div className="bg-yellow-50 dark:bg-yellow-900/30 border-l-4 border-yellow-400 dark:border-yellow-500 p-6 rounded mb-8">
-          <h3 className="text-lg font-semibold text-yellow-800 dark:text-yellow-200 mb-3">
-            Disclaimer
-          </h3>
-          <div className="text-yellow-800 dark:text-yellow-100 space-y-3 text-sm">
-            <p>
-              <strong>i)</strong> The Licence held by Wind Technologies Ltd is
-              an Innovation Testing Licence (ITL) issued by the Dubai Financial
-              Services Authority (DFSA), which authorises the Firm solely to
-              test its services within the parameters approved under the DFSA
-              Testing Plan (Phase 1).
-            </p>
-            <p>
-              <strong>(ii)</strong> As the Licence is restricted to testing,
-              certain standard regulatory requirements and client protections
-              may not apply during this phase. Participants in the testing
-              environment acknowledge that they may have reduced rights and may
-              not be fully compensated for any losses incurred as part of the
-              testing activities.
-            </p>
-            <p>
-              <strong>(iii)</strong> The Firm will not undertake or process any
-              financial transactions until a designated Client Money Account has
-              been opened and approved, as per the DFSA Testing Plan.
-            </p>
-            <p>
-              <strong>(iv)</strong> Upon completion of the testing phase and
-              removal of licence restrictions, the Firm will execute and
-              implement a new set of Terms & Conditions governing the full-scale
-              authorised operations. All clients will be required to review and
-              accept the revised Terms & Conditions prior to continuing any
-              services.
-            </p>
-          </div>
+        <div className="mb-8">
+          <Disclaimer variant="yellow" />
         </div>
 
         {/* UAE ToS */}
-        <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-8 mb-8 border-l-4 border-blue-500">
+        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 border-l-4 border-blue-500">
           <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-4 flex items-center">
             🇦🇪 UAE ToS
           </h2>
@@ -81,7 +50,7 @@ export default function TermsOfService() {
         </div>
 
         {/* EEA ToS */}
-        <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-8 mb-8 border-l-4 border-green-500">
+        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 border-l-4 border-green-500">
           <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-4 flex items-center">
             🇪🇺 EEA ToS
           </h2>

@@ -21,7 +21,7 @@ export default function PrivacyPolicy() {
         </p>
 
         {/* UAE Privacy Policy */}
-        <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-8 mb-8 border-l-4 border-blue-500">
+        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 border-l-4 border-blue-500">
           <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-4 flex items-center">
             🇦🇪 UAE PP
           </h2>
@@ -42,7 +42,7 @@ export default function PrivacyPolicy() {
         </div>
 
         {/* EEA Privacy Policy */}
-        <div className="bg-white dark:bg-gray-800 shadow-md rounded-lg p-8 mb-8 border-l-4 border-green-500">
+        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 border-l-4 border-green-500">
           <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-4 flex items-center">
             🇪🇺 EEA PP
           </h2>
