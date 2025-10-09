@@ -71,22 +71,12 @@ export default function TermsOfService() {
               The headings are for reference only. Some capitalized terms have
               specific definitions in the Glossary.
             </p>
-            <div className="flex gap-4">
-              <Link
-                href="/terms/uae"
-                className="inline-block bg-blue-600 dark:bg-blue-700 text-white px-6 py-3 rounded-lg hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
-              >
-                Read Full UAE ToS
-              </Link>
-              <a
-                href="/legal/uae-tos.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-gray-600 dark:bg-gray-700 text-white px-6 py-3 rounded-lg hover:bg-gray-700 dark:hover:bg-gray-600 transition-colors"
-              >
-                Download PDF
-              </a>
-            </div>
+            <Link
+              href="/terms/uae"
+              className="inline-block bg-blue-600 dark:bg-blue-700 text-white px-6 py-3 rounded-lg hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
+            >
+              Read Full UAE ToS
+            </Link>
           </div>
         </div>
 
@@ -104,22 +94,12 @@ export default function TermsOfService() {
               The headings are for reference only. Some capitalized terms have
               specific definitions in the Glossary.
             </p>
-            <div className="flex gap-4">
-              <Link
-                href="/terms/eea"
-                className="inline-block bg-green-600 dark:bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-700 dark:hover:bg-green-600 transition-colors"
-              >
-                Read Full EEA ToS
-              </Link>
-              <a
-                href="/legal/eea-tos.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-gray-600 dark:bg-gray-700 text-white px-6 py-3 rounded-lg hover:bg-gray-700 dark:hover:bg-gray-600 transition-colors"
-              >
-                Download PDF
-              </a>
-            </div>
+            <Link
+              href="/terms/eea"
+              className="inline-block bg-green-600 dark:bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-700 dark:hover:bg-green-600 transition-colors"
+            >
+              Read Full EEA ToS
+            </Link>
           </div>
         </div>
 

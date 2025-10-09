@@ -32,22 +32,12 @@ export default function PrivacyPolicy() {
               protection of data seriously and are committed to handling the
               personal information responsibly.
             </p>
-            <div className="flex gap-4">
-              <Link
-                href="/privacy/uae"
-                className="inline-block bg-blue-600 dark:bg-blue-700 text-white px-6 py-3 rounded-lg hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
-              >
-                Read Full UAE Privacy Policy
-              </Link>
-              <a
-                href="/legal/uae-pp.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-gray-600 dark:bg-gray-700 text-white px-6 py-3 rounded-lg hover:bg-gray-700 dark:hover:bg-gray-600 transition-colors"
-              >
-                Download PDF
-              </a>
-            </div>
+            <Link
+              href="/privacy/uae"
+              className="inline-block bg-blue-600 dark:bg-blue-700 text-white px-6 py-3 rounded-lg hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
+            >
+              Read Full UAE Privacy Policy
+            </Link>
           </div>
         </div>
 
@@ -63,22 +53,12 @@ export default function PrivacyPolicy() {
               protection of data seriously and are committed to handling the
               personal information responsibly.
             </p>
-            <div className="flex gap-4">
-              <Link
-                href="/privacy/eea"
-                className="inline-block bg-green-600 dark:bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-700 dark:hover:bg-green-600 transition-colors"
-              >
-                Read Full EEA Privacy Policy
-              </Link>
-              <a
-                href="/legal/eea-pp.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-gray-600 dark:bg-gray-700 text-white px-6 py-3 rounded-lg hover:bg-gray-700 dark:hover:bg-gray-600 transition-colors"
-              >
-                Download PDF
-              </a>
-            </div>
+            <Link
+              href="/privacy/eea"
+              className="inline-block bg-green-600 dark:bg-green-700 text-white px-6 py-3 rounded-lg hover:bg-green-700 dark:hover:bg-green-600 transition-colors"
+            >
+              Read Full EEA Privacy Policy
+            </Link>
           </div>
         </div>
 
