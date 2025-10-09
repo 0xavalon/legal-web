@@ -7,8 +7,8 @@ export default function Disclaimer({ variant = "yellow" }: DisclaimerProps) {
   const isRed = variant === "red";
 
   const containerClasses = isYellow
-    ? "bg-yellow-50 dark:bg-yellow-900/20"
-    : "bg-red-50 dark:bg-red-900/30";
+    ? "bg-gradient-to-br from-yellow-50 to-yellow-100 dark:bg-gradient-to-br dark:from-yellow-900/20 dark:to-yellow-800/20"
+    : "bg-gradient-to-br from-red-50 to-red-100 dark:bg-gradient-to-br dark:from-red-900/30 dark:to-red-800/30";
 
   const titleClasses = isYellow
     ? "text-yellow-900 dark:text-yellow-200"
@@ -19,13 +19,20 @@ export default function Disclaimer({ variant = "yellow" }: DisclaimerProps) {
     : "text-red-800 dark:text-red-100";
 
   return (
-    <div className={`${containerClasses} rounded-lg p-6`}>
-      <h2 className={`text-lg font-semibold ${titleClasses} mb-4`}>
-        Disclaimer
-      </h2>
-      <div className={`text-sm ${textClasses} space-y-3`}>
+    <div
+      className={`${containerClasses} rounded-2xl p-8 border-2 ${
+        isYellow
+          ? "border-yellow-200 dark:border-yellow-700"
+          : "border-red-200 dark:border-red-700"
+      }`}
+    >
+      <div className="flex items-center mb-6">
+        <span className="text-4xl mr-4">{isYellow ? "⚠️" : "🚨"}</span>
+        <h2 className={`text-2xl font-bold ${titleClasses}`}>Disclaimer</h2>
+      </div>
+      <div className={`text-base ${textClasses} space-y-4 leading-relaxed`}>
         <p>
-          <strong>(i)</strong> The Licence held by{" "}
+          <strong className="font-bold">(i)</strong> The Licence held by{" "}
           <strong className="font-bold">Wind Technologies Ltd</strong> is an{" "}
           <strong className="font-bold">
             Innovation Testing Licence (ITL)
@@ -36,11 +43,13 @@ export default function Disclaimer({ variant = "yellow" }: DisclaimerProps) {
           within the parameters approved under the DFSA Testing Plan (Phase 1).
         </p>
         <p>
-          <strong>(ii)</strong> As the Licence is restricted to testing, certain
+          <strong className="font-bold">(ii)</strong> As the Licence is
+          restricted to testing, certain
           <strong className="font-bold">
+            {" "}
             standard regulatory requirements and client protections may not
             apply
-          </strong>
+          </strong>{" "}
           during this phase. Participants in the testing environment acknowledge
           that they may have{" "}
           <strong className="font-bold">reduced rights</strong> and{" "}
@@ -48,7 +57,7 @@ export default function Disclaimer({ variant = "yellow" }: DisclaimerProps) {
           for any losses incurred as part of the testing activities.
         </p>
         <p>
-          <strong>(iii)</strong> The Firm will{" "}
+          <strong className="font-bold">(iii)</strong> The Firm will{" "}
           <strong className="font-bold">
             not undertake or process any financial transactions
           </strong>{" "}
@@ -57,7 +66,8 @@ export default function Disclaimer({ variant = "yellow" }: DisclaimerProps) {
           opened and approved, as per the DFSA Testing Plan.
         </p>
         <p>
-          <strong>(iv)</strong> Upon completion of the testing phase and{" "}
+          <strong className="font-bold">(iv)</strong> Upon completion of the
+          testing phase and{" "}
           <strong className="font-bold">removal of licence restrictions</strong>
           , the Firm will execute and implement a{" "}
           <strong className="font-bold">new set of Terms & Conditions</strong>{" "}
