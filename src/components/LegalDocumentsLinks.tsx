@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function LegalDocumentsLinks() {
   return (
     <div className="space-y-4">
-      <Link
+      {/* <Link
         href="/terms-and-conditions/uae"
         className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 dark:hover:border-blue-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
       >
@@ -13,7 +13,7 @@ export default function LegalDocumentsLinks() {
           </span>
           <span className="text-gray-400 dark:text-gray-500">→</span>
         </div>
-      </Link>
+      </Link> */}
 
       <Link
         href="/terms-and-conditions/eea"
@@ -27,7 +27,7 @@ export default function LegalDocumentsLinks() {
         </div>
       </Link>
 
-      <Link
+      {/* <Link
         href="/privacy-policy/uae"
         className="block p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 dark:hover:border-blue-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
       >
@@ -37,7 +37,7 @@ export default function LegalDocumentsLinks() {
           </span>
           <span className="text-gray-400 dark:text-gray-500">→</span>
         </div>
-      </Link>
+      </Link> */}
 
       <Link
         href="/privacy-policy/eea"
