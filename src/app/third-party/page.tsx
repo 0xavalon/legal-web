@@ -1,73 +1,76 @@
-import Link from "next/link";
+import Button from "@/components/Button";
 
 export default function ThirdPartyLegal() {
   return (
-    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-4xl mx-auto">
-        <div className="mb-8">
-          <Link
-            href="/"
-            className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline"
-          >
-            ← Back to Legal Documents
-          </Link>
+    <div className="min-h-screen bg-white dark:bg-black">
+      {/* Hero Section */}
+      <div className="py-12 px-4 sm:px-6 lg:px-8 border-b border-gray-200 dark:border-gray-800">
+        <div className="max-w-5xl mx-auto">
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-black dark:text-white mb-4">
+            THIRD PARTY TERMS
+          </h1>
+          <p className="text-xl text-gray-600 dark:text-gray-400 mb-8">
+            Please find 3rd party ToS and PP:
+          </p>
         </div>
+      </div>
 
-        <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100 mb-4">
-          Third Party Terms and Policies
-        </h1>
-        <p className="text-gray-600 dark:text-gray-400 mb-8">
-          Please find 3rd party ToS and PP:
-        </p>
-
-        <div className="bg-white dark:bg-gray-800 rounded-lg p-8 mb-8 border-purple-500">
-          <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-4">
-            Bridge
-          </h2>
-          <div className="prose max-w-none">
-            <p className="text-gray-600 dark:text-gray-400 mb-6">
+      {/* Content Section */}
+      <div className="py-16 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-5xl mx-auto">
+          {/* Bridge Card */}
+          <div className="p-8 rounded-2xl border border-gray-200 dark:border-gray-800 hover:border-[#F2FF46] transition-all mb-8">
+            <div className="flex items-center mb-6">
+              <span className="text-5xl mr-4">🔗</span>
+              <div>
+                <h2 className="text-3xl font-bold text-black dark:text-white">
+                  Bridge
+                </h2>
+                <p className="text-gray-600 dark:text-gray-400 text-sm">
+                  Payment Services Partner
+                </p>
+              </div>
+            </div>
+            <p className="text-gray-700 dark:text-gray-300 mb-6 text-lg">
               Our services integrate with Bridge. Please review their terms of
               service and privacy policy.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <a
+            <div className="grid sm:grid-cols-2 gap-4">
+              <Button
                 href="https://www.bridge.xyz/legal/row-user-terms/bridge-building-limited"
                 target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-purple-600 dark:bg-purple-700 text-white px-6 py-3 rounded-lg hover:bg-purple-700 dark:hover:bg-purple-600 transition-colors text-center"
+                variant="primary"
+                className="w-full"
               >
                 Terms & Services →
-              </a>
-              <a
+              </Button>
+              <Button
                 href="https://www.bridge.xyz/legal/row-user-terms/bridge-building-limited"
                 target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block bg-purple-600 dark:bg-purple-700 text-white px-6 py-3 rounded-lg hover:bg-purple-700 dark:hover:bg-purple-600 transition-colors text-center"
+                variant="primary"
+                className="w-full"
               >
                 Privacy Policy →
-              </a>
+              </Button>
             </div>
           </div>
-        </div>
 
-        <div className="bg-blue-50 dark:bg-blue-900/30 border-blue-400 dark:border-blue-500 p-6 rounded">
-          <h3 className="text-lg font-semibold text-blue-800 dark:text-blue-200 mb-2">
-            Note
-          </h3>
-          <p className="text-blue-700 dark:text-blue-100 text-sm">
-            These are third-party services. By using our platform, you may also
-            be subject to their terms and policies. We encourage you to review
-            them carefully.
-          </p>
-        </div>
-
-        <div className="mt-8 text-center">
-          <Link
-            href="/"
-            className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline"
-          >
-            ← Back to Legal Documents
-          </Link>
+          {/* Notice Box */}
+          <div className="border border-gray-300 dark:border-gray-700 p-6 rounded-xl mb-8 bg-gray-50 dark:bg-gray-900">
+            <div className="flex items-start">
+              <span className="text-3xl mr-4">ℹ️</span>
+              <div>
+                <h3 className="text-xl font-bold text-black dark:text-white mb-2">
+                  Important Notice
+                </h3>
+                <p className="text-gray-700 dark:text-gray-300">
+                  These are third-party services. By using our platform, you may
+                  also be subject to their terms and policies. We encourage you
+                  to review them carefully.
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
