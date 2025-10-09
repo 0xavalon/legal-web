@@ -307,7 +307,7 @@ export default function UAETermsOfService() {
             party, any inquiries we consider necessary to validate the
             information you provided to us, including checking commercial
             databases or credit reports. You authorize us to obtain one or more
-            of your credit reports, from time to time, to establish, update, or
+            of your credit reports, from time-to-time, to establish, update, or
             renew your Wind Technologies Account with us or in the event of a
             dispute relating to this Agreement or activity under your Wind
             Technologies Account. You agree we may disclose your name,
@@ -404,7 +404,7 @@ export default function UAETermsOfService() {
           <p className="text-gray-700 dark:text-gray-300">
             (c) Use any functionality that allows your login details or pin to
             be stored by the computer or browser you are using or to be cached
-            or otherwise recorded.
+            or other Wind Technologies recorded.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300">
@@ -702,7 +702,7 @@ export default function UAETermsOfService() {
             time for the relevant currency or token pair (for example, USDC to
             wETH) that is offered by Wind Technologies, which is typically
             provided by a reference rate provider. We may change our reference
-            rate provider from time to time without notice to you.
+            rate provider from time-to-time without notice to you.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300">
@@ -834,10 +834,10 @@ export default function UAETermsOfService() {
             </strong>{" "}
             We will use reasonable efforts to ensure that the funds arrive in
             the recipient's bank account or payment account within the timelines
-            notified to you or otherwise specified in our Help Centre. We do not
-            have any control over the time it may take for the recipient's bank
-            or payment provider to credit and make available funds to the
-            recipient.
+            notified to you or other Wind Technologies specified in our Help
+            Centre. We do not have any control over the time it may take for the
+            recipient's bank or payment provider to credit and make available
+            funds to the recipient.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300">
@@ -956,7 +956,7 @@ export default function UAETermsOfService() {
             list of Wind Technologies Trademarks is enclosed below. "Wind
             Technologies", "Pipes (Formerly River)" and any other business and
             service names, logos, signs, graphics, page headers, button icons
-            and/or scripts (each as might be amended from time to time) are all
+            and/or scripts (each as might be amended from time-to-time) are all
             registered or unregistered trademarks or trade dress of Wind
             Technologies or Wind Technologies's licensors in the relevant
             jurisdictions ("Wind Technologies Trademarks"). You may not copy,
@@ -1000,7 +1000,7 @@ export default function UAETermsOfService() {
           </p>
 
           <p className="text-gray-700 dark:text-gray-300">
-            <strong>12.2 App updates.</strong> From time to time updates to the
+            <strong>12.2 App updates.</strong> From time-to-time updates to the
             App may be issued through App Store or Google Play. Depending on the
             update, you may not be able to use our Services via the App until
             you have downloaded the latest version of the App and accepted any
@@ -1051,10 +1051,10 @@ export default function UAETermsOfService() {
             (e) The license you have been granted herein is limited to a
             non-transferable license to use the App on an Apple-branded product
             that runs Apple's iOS operating system and is owned or controlled by
-            you, or as otherwise permitted by the Usage Rules set forth in
-            Apple's App Store Terms of Service. In addition, you must comply
-            with the terms of any third-party agreement applicable to you when
-            using the App, such as your wireless data service agreement.
+            you, or as other Wind Technologies permitted by the Usage Rules set
+            forth in Apple's App Store Terms of Service. In addition, you must
+            comply with the terms of any third-party agreement applicable to you
+            when using the App, such as your wireless data service agreement.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300">
@@ -1235,11 +1235,11 @@ export default function UAETermsOfService() {
             outstanding amount then, without prejudice to any other rights we
             may have, we reserve the right to collect your debt to us by using
             any payments received in your Wind Technologies Account or to fund a
-            Money Transfer and otherwise you agree to reimburse us through other
-            means. We may also recover amounts you owe us through other
-            collection avenues, including, without limitation, through the use
-            of a debt collection agency. We may recover all reasonable costs or
-            expenses (including reasonable attorneys' fees and expenses)
+            Money Transfer and other Wind Technologies you agree to reimburse us
+            through other means. We may also recover amounts you owe us through
+            other collection avenues, including, without limitation, through the
+            use of a debt collection agency. We may recover all reasonable costs
+            or expenses (including reasonable attorneys' fees and expenses)
             incurred in connection with the enforcement of this Agreement.
           </p>
 
@@ -1251,10 +1251,13 @@ export default function UAETermsOfService() {
             and consequential) of every kind and nature, known and unknown,
             arising out of or in any way connected with such disputes. In
             entering into this release you expressly waive any protections
-            (whether statutory or otherwise) that would otherwise limit the
-            coverage of this release to include only those claims which you may
-            know or suspect to exist in your favor at the time of agreeing to
-            this release.
+            (whether statutory or other Wind Technologies) that would other Wind
+            Technologies limit the coverage of this release to include only
+            those claims which you may know or suspect to exist in your favor at
+            the time of agreeing to this release that would other Wind
+            Technologies limit the coverage of this release to include only
+            those claims which you may know or suspect to exist in your favor at
+            the time of agreeing to this release.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300">
