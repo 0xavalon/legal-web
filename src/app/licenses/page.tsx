@@ -11,10 +11,10 @@ export default function Licenses() {
       <div className="py-12 px-4 sm:px-6 lg:px-8 border-b border-gray-200 dark:border-gray-800">
         <div className="max-w-7xl mx-auto">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-black dark:text-white mb-4">
-            PIPES LICENSES
+            FIN LICENSES
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-4xl">
-            Pipes operates through multiple legal entities with proper licensing
+            Fin operates through multiple legal entities with proper licensing
             across different jurisdictions to provide secure and compliant
             services.
           </p>

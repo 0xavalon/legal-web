@@ -25,7 +25,7 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>1.1 This Agreement.</strong> This is the contract between you,
-          the "User", and UAB Wind Technologies ("Pipes", "us", "we", "our"), which
+          the "User", and UAB Wind Technologies ("Fin", "us", "we", "our"), which
           defines the terms and conditions on which we provide our Services to
           you ("Agreement"). This Agreement refers to and incorporates by
           reference the following additional documents ("Additional Documents"),
@@ -923,7 +923,7 @@ export default function EEATermsOfService() {
         <p className="text-gray-700 dark:text-gray-300">
           <strong>11.4 UAB Wind Technologies Trademarks.</strong> A non-exhaustive
           list of UAB Wind Technologies Trademarks is enclosed below. "Wind
-          Technologies", "Pipes (Formerly River)" and any other business and
+          Technologies", "Fin (Formerly Pipes)" and any other business and
           service names, logos, signs, graphics, page headers, button icons
           and/or scripts (each as might be amended from time to time) are all
           registered or unregistered trademarks or trade dress of Wind
@@ -1293,7 +1293,7 @@ export default function EEATermsOfService() {
           To access the Interface, you must use a non-custodial wallet software,
           which allows you to interact with public blockchains. Your
           relationship with that non-custodial wallet provider is governed by
-          the applicable terms of service (with respect to the Pipes Wallet,
+          the applicable terms of service (with respect to the Fin Wallet,
           this Agreement, and with respect to a third party wallet, the
           applicable terms of service of such third party). We do not have
           custody or control over the contents of your wallet and have no
@@ -1319,7 +1319,7 @@ export default function EEATermsOfService() {
           for any associated wallet and we are not liable for any acts or
           omissions by you in connection with or as a result of your wallet
           being compromised. For the avoidance of doubt, any references herein
-          to a "wallet" shall include the Pipes Wallet.
+          to a "wallet" shall include the Fin Wallet.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">

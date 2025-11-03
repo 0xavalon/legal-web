@@ -15,9 +15,9 @@ export default function Home() {
             <div className="mb-8 flex justify-center">
               <Image
                 src="/logo.svg"
-                alt="Pipes Logo"
-                width={240}
-                height={91}
+                alt="Fin Logo"
+                width={100}
+                height={80}
                 className="invert"
                 priority
               />

@@ -1,6 +1,6 @@
 # Legal Documentation Website
 
-A Next.js application for hosting legal documents including Terms of Service and Privacy Policies for Pipes (Wind Technologies).
+A Next.js application for hosting legal documents including Terms of Service and Privacy Policies for Fin (Wind Technologies).
 
 ## � Live Preview
 
@@ -8,7 +8,7 @@ Visit the deployed site or run locally with `pnpm dev`
 
 ## 📋 Project Overview
 
-This project replicates the legal documentation from [Pipes Help Center](https://help.pipes.tech/en/articles/11058454-terms-of-services-and-privacy-policy) as a self-hosted Next.js application.
+This project replicates the legal documentation from [Fin Help Center](https://help.fin.com/en/articles/11058454-terms-of-services-and-privacy-policy) as a self-hosted Next.js application.
 
 ## 🏗️ Project Structure
 
@@ -149,17 +149,17 @@ All pages include the Innovation Testing Licence disclaimer with 4 key points ab
 - Verification guide
 - USD Virtual Account information
 - Security Policy
-- Pipes Licenses
+- Fin Licenses
 
 ## 🔗 External Links
 
 - **Bridge Terms**: <https://bridge.xyz/terms>
 - **Bridge Privacy**: <https://bridge.xyz/privacy>
-- **Support Email**: <compliance@pipes.tech>
+- **Support Email**: <compliance@fin.com>
 
 ## 📝 License
 
-This project contains legal documentation for Wind Technologies (Pipes). All rights reserved.
+This project contains legal documentation for Wind Technologies (Fin). All rights reserved.
 
 ## 🤝 Contributing
 
@@ -167,5 +167,5 @@ This is a proprietary legal documentation project. Please contact the maintainer
 
 ## 📞 Contact
 
-**Pipes Help Center**  
-Email: <compliance@pipes.tech>  
+**Fin Help Center**  
+Email: <compliance@fin.com>  

@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pipes Legal Documents - Terms of Service & Privacy Policy",
+  title: "Fin Legal Documents - Terms of Service & Privacy Policy",
   description:
-    "Pipes Terms of Service and Privacy Policy for UAE and EEA regions",
+    "Fin Terms of Service and Privacy Policy for UAE and EEA regions",
 };
 
 export default function RootLayout({
