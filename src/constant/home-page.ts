@@ -39,12 +39,12 @@ export const HOME_PAGE_DATA: HomePageData = {
     buttons: [
       {
         label: "Contact Compliance",
-        href: "mailto:compliance@pipes.tech",
+        href: "mailto:compliance@fin.com",
         variant: "primary",
       },
       {
         label: "Visit Main Site",
-        href: "https://pipes.tech",
+        href: "https://fin.com",
         variant: "secondary",
         target: "_blank",
       },

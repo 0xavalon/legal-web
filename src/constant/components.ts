@@ -257,7 +257,7 @@ export const FOOTER_DATA: FooterData = {
       links: [
         {
           label: "Help",
-          href: "https://help.pipes.tech",
+          href: "https://help.fin.com",
           external: true,
         },
       ],
@@ -276,11 +276,11 @@ export const FOOTER_DATA: FooterData = {
       ],
     },
   ],
-  copyright: "© 2025 Rivertel Holdco, Inc.",
+  copyright: `© Fin Inc, ${new Date().getFullYear()}`,
   contact: {
     label: "Questions?",
     buttonText: "Contact Us",
-    email: "mailto:compliance@pipes.tech",
+    email: "mailto:compliance@fin.com",
   },
 };
 
@@ -301,9 +301,9 @@ export interface NavbarData {
 export const NAVBAR_DATA: NavbarData = {
   logo: {
     src: "/logo.svg",
-    alt: "Pipes Logo",
-    width: 120,
-    height: 46,
+    alt: "Fin Logo",
+    width: 50,
+    height: 40,
   },
   navigation: [
     {
