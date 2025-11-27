@@ -1,5 +1,5 @@
-import React from "react";
 import Link from "next/link";
+import type React from "react";
 import { cn } from "@/lib/utils";
 
 type ButtonProps = {
@@ -36,7 +36,7 @@ const Button: React.FC<ButtonProps> = ({
         variant === "ghost",
       "pointer-events-none opacity-50": disabled,
     },
-    className
+    className,
   );
 
   if (href) {
@@ -48,7 +48,12 @@ const Button: React.FC<ButtonProps> = ({
   }
 
   return (
-    <button onClick={onClick} disabled={disabled} className={_className}>
+    <button
+      type="button"
+      onClick={onClick}
+      disabled={disabled}
+      className={_className}
+    >
       {children}
     </button>
   );

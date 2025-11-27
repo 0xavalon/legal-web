@@ -1,5 +1,5 @@
-import Button from "./Button";
 import { LEGAL_DOCUMENTS_LINKS_DATA } from "@/constant/components";
+import Button from "./Button";
 
 export default function LegalDocumentsLinks() {
   return (
@@ -30,7 +30,7 @@ export default function LegalDocumentsLinks() {
               ))}
             </div>
           </div>
-        )
+        ),
       )}
     </div>
   );

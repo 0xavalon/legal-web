@@ -25,11 +25,12 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>1.1 This Agreement.</strong> This is the contract between you,
-          the "User", and UAB Wind Technologies ("Fin", "us", "we", "our"), which
-          defines the terms and conditions on which we provide our Services to
-          you ("Agreement"). This Agreement refers to and incorporates by
-          reference the following additional documents ("Additional Documents"),
-          which also apply to your use of our Services:
+          the "User", and UAB Wind Technologies ("Fin", "us", "we", "our"),
+          which defines the terms and conditions on which we provide our
+          Services to you ("Agreement"). This Agreement refers to and
+          incorporates by reference the following additional documents
+          ("Additional Documents"), which also apply to your use of our
+          Services:
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -63,9 +64,9 @@ export default function EEATermsOfService() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>1.5</strong> You should also be aware of our UAB Wind Technologies
-          Help Centre ("Help Centre") which provides answers to common customer
-          questions.
+          <strong>1.5</strong> You should also be aware of our UAB Wind
+          Technologies Help Centre ("Help Centre") which provides answers to
+          common customer questions.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -106,8 +107,8 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>Authorized User</strong> means any person operating or
-          accessing your UAB Wind Technologies Account on your behalf following the
-          process in section 4.3.
+          accessing your UAB Wind Technologies Account on your behalf following
+          the process in section 4.3.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -177,14 +178,14 @@ export default function EEATermsOfService() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>UAB Wind Technologies Account</strong> means your Personal Account
-          and all Business Accounts that you have registered with Wind
+          <strong>UAB Wind Technologies Account</strong> means your Personal
+          Account and all Business Accounts that you have registered with Wind
           Technologies under one email address.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>UAB Wind Technologies Materials</strong> has the definition given
-          in Section 11.1.
+          <strong>UAB Wind Technologies Materials</strong> has the definition
+          given in Section 11.1.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -221,28 +222,29 @@ export default function EEATermsOfService() {
             Account ("Authorized User").
           </strong>{" "}
           You also acknowledge that if you authorize an Authorized User to
-          access your UAB Wind Technologies Account, we'll deal with such Authorized
-          User, including any instruction they provide us, as if they were you
-          for the purposes of this Agreement. You will be bound by anything done
-          by any Authorized User, even if they do something that is outside the
-          scope of the authority you gave them. You also acknowledge that we may
-          disclose certain information about your UAB Wind Technologies Account to
-          any Authorized User and that we are not responsible for your
-          Authorized User's use of any information in your UAB Wind Technologies
-          Account. Granting permission to any Authorized User does not relieve
-          you of your responsibilities under this Agreement, including notifying
-          us if your UAB Wind Technologies Account has been compromised or if a
-          transaction is suspected to be incorrect or unauthorized.
+          access your UAB Wind Technologies Account, we'll deal with such
+          Authorized User, including any instruction they provide us, as if they
+          were you for the purposes of this Agreement. You will be bound by
+          anything done by any Authorized User, even if they do something that
+          is outside the scope of the authority you gave them. You also
+          acknowledge that we may disclose certain information about your UAB
+          Wind Technologies Account to any Authorized User and that we are not
+          responsible for your Authorized User's use of any information in your
+          UAB Wind Technologies Account. Granting permission to any Authorized
+          User does not relieve you of your responsibilities under this
+          Agreement, including notifying us if your UAB Wind Technologies
+          Account has been compromised or if a transaction is suspected to be
+          incorrect or unauthorized.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>
-            3.4 Disputes between you and an Authorized User relating to your
-            UAB Wind Technologies Account is a private matter.
+            3.4 Disputes between you and an Authorized User relating to your UAB
+            Wind Technologies Account is a private matter.
           </strong>{" "}
-          You recognize that UAB Wind Technologies is not a party to any claim or
-          dispute between you and your Authorized Users. Because you are bound
-          by the actions of Authorized Users, it's very important that you
+          You recognize that UAB Wind Technologies is not a party to any claim
+          or dispute between you and your Authorized Users. Because you are
+          bound by the actions of Authorized Users, it's very important that you
           choose Authorized Users carefully. We suggest you regularly reassess
           who can be an Authorized User on your account and regularly log into
           your UAB Wind Technologies Account to assess and review the activity
@@ -258,9 +260,9 @@ export default function EEATermsOfService() {
         </h3>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>4.1 Creating an UAB Wind Technologies Account.</strong> To start
-          using our Services, you must create an UAB Wind Technologies Account and
-          provide your details as prompted.
+          <strong>4.1 Creating an UAB Wind Technologies Account.</strong> To
+          start using our Services, you must create an UAB Wind Technologies
+          Account and provide your details as prompted.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -286,16 +288,16 @@ export default function EEATermsOfService() {
           reports. You authorize us to obtain one or more of your credit
           reports, from time to time, to establish, update, or renew your Wind
           Technologies Account with us or in the event of a dispute relating to
-          this Agreement or activity under your UAB Wind Technologies Account. You
-          agree we may disclose your name, residential address and date of birth
-          to a credit reporting agency in order to obtain a credit report for
-          these purposes.
+          this Agreement or activity under your UAB Wind Technologies Account.
+          You agree we may disclose your name, residential address and date of
+          birth to a credit reporting agency in order to obtain a credit report
+          for these purposes.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>4.4</strong> UAB Wind Technologies reserves the right to close,
-          suspend, or limit access to your UAB Wind Technologies Account or the
-          Services in the event we are unable to obtain or verify your
+          <strong>4.4</strong> UAB Wind Technologies reserves the right to
+          close, suspend, or limit access to your UAB Wind Technologies Account
+          or the Services in the event we are unable to obtain or verify your
           information.
         </p>
 
@@ -321,8 +323,8 @@ export default function EEATermsOfService() {
         </h3>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>5.1</strong> When accessing your UAB Wind Technologies Account,
-          you should at the minimum do the following:
+          <strong>5.1</strong> When accessing your UAB Wind Technologies
+          Account, you should at the minimum do the following:
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -331,8 +333,8 @@ export default function EEATermsOfService() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          (b) Contact Customer Support if anyone asks for your UAB Wind Technologies
-          Account login details, including your pin.
+          (b) Contact Customer Support if anyone asks for your UAB Wind
+          Technologies Account login details, including your pin.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -368,8 +370,8 @@ export default function EEATermsOfService() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          (a) Disclose your UAB Wind Technologies Account pin or other credentials,
-          and you must keep them safe.
+          (a) Disclose your UAB Wind Technologies Account pin or other
+          credentials, and you must keep them safe.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -398,16 +400,16 @@ export default function EEATermsOfService() {
           credentials are stolen, lost, used without your authorisation or
           otherwise compromised, you must contact Customer Support immediately.
           You are also advised to change your pin. Any undue delays in notifying
-          us may affect the security of your UAB Wind Technologies Account and also
-          result in you being responsible for losses. You must provide us with
-          any reasonable assistance we require from you to investigate and take
-          any action required to secure your account.
+          us may affect the security of your UAB Wind Technologies Account and
+          also result in you being responsible for losses. You must provide us
+          with any reasonable assistance we require from you to investigate and
+          take any action required to secure your account.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>5.4</strong> Additional UAB Wind Technologies products or services
-          you use may have additional security requirements and you must
-          familiarize yourself with those.
+          <strong>5.4</strong> Additional UAB Wind Technologies products or
+          services you use may have additional security requirements and you
+          must familiarize yourself with those.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -447,20 +449,21 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>
-            6.1 You may terminate your UAB Wind Technologies Account at any time.
+            6.1 You may terminate your UAB Wind Technologies Account at any
+            time.
           </strong>{" "}
-          You may terminate your UAB Wind Technologies Account, which will end your
-          ability to use our Services at any time.
+          You may terminate your UAB Wind Technologies Account, which will end
+          your ability to use our Services at any time.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>
-            6.2 You must not terminate your UAB Wind Technologies Account to avoid
-            an investigation.
+            6.2 You must not terminate your UAB Wind Technologies Account to
+            avoid an investigation.
           </strong>{" "}
-          If you attempt to terminate your UAB Wind Technologies Account during an
-          investigation, we may hold your money until the investigation is fully
-          completed in order to protect our or a third party's interest.
+          If you attempt to terminate your UAB Wind Technologies Account during
+          an investigation, we may hold your money until the investigation is
+          fully completed in order to protect our or a third party's interest.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -476,9 +479,9 @@ export default function EEATermsOfService() {
           <strong>
             6.4 We may end this Agreement by giving you 30 days' notice.
           </strong>{" "}
-          We may end this Agreement and terminate your UAB Wind Technologies Account
-          or any Service associated with it by giving you 30 days' prior notice,
-          where required.
+          We may end this Agreement and terminate your UAB Wind Technologies
+          Account or any Service associated with it by giving you 30 days' prior
+          notice, where required.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -487,11 +490,11 @@ export default function EEATermsOfService() {
             without notice in certain circumstances.
           </strong>{" "}
           We may at any time suspend your UAB Wind Technologies Account, during
-          which time your UAB Wind Technologies Account remains open but is not able
-          to be operated by you or may be subject to restrictions until we
-          remove the suspension, or close your UAB Wind Technologies Account, which
-          means your UAB Wind Technologies Account is deactivated and this Agreement
-          ends, without notice. We may do this if:
+          which time your UAB Wind Technologies Account remains open but is not
+          able to be operated by you or may be subject to restrictions until we
+          remove the suspension, or close your UAB Wind Technologies Account,
+          which means your UAB Wind Technologies Account is deactivated and this
+          Agreement ends, without notice. We may do this if:
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -525,8 +528,8 @@ export default function EEATermsOfService() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          (b) suspected unauthorized or fraudulent use of your UAB Wind Technologies
-          Account.
+          (b) suspected unauthorized or fraudulent use of your UAB Wind
+          Technologies Account.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -576,9 +579,9 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>8.1 How to upload money.</strong> To make a Money Transfer,
-          you need to log in to your UAB Wind Technologies Account and follow the
-          steps. We are not responsible for the funds you have uploaded until we
-          have received them.
+          you need to log in to your UAB Wind Technologies Account and follow
+          the steps. We are not responsible for the funds you have uploaded
+          until we have received them.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -605,14 +608,15 @@ export default function EEATermsOfService() {
           <strong>
             8.4 When will we credit your UAB Wind Technologies Account?
           </strong>{" "}
-          We will credit your UAB Wind Technologies Account once we have received
-          your funds. For some Pay-in Methods such as credit or debit card, we
-          will credit the funds to your UAB Wind Technologies Account as soon as
-          possible subject to our right of reversal. This means if we credit
-          your UAB Wind Technologies Account for the full amount you intended to
-          upload but this amount does not reach us within a reasonable time, and
-          you use said credited amount, for instance to send money we may deduct
-          such amount from your UAB Wind Technologies Account.
+          We will credit your UAB Wind Technologies Account once we have
+          received your funds. For some Pay-in Methods such as credit or debit
+          card, we will credit the funds to your UAB Wind Technologies Account
+          as soon as possible subject to our right of reversal. This means if we
+          credit your UAB Wind Technologies Account for the full amount you
+          intended to upload but this amount does not reach us within a
+          reasonable time, and you use said credited amount, for instance to
+          send money we may deduct such amount from your UAB Wind Technologies
+          Account.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -655,9 +659,9 @@ export default function EEATermsOfService() {
         <p className="text-gray-700 dark:text-gray-300">
           <strong>8.7 Uploading money restrictions.</strong> No other payment
           methods are accepted other than those mentioned when you log-in to
-          your UAB Wind Technologies Account. For legal, security, or other reasons,
-          there may be financial limits for particular payment methods or
-          currencies. Please visit our Help Centre for more information.
+          your UAB Wind Technologies Account. For legal, security, or other
+          reasons, there may be financial limits for particular payment methods
+          or currencies. Please visit our Help Centre for more information.
         </p>
 
         <h3 className="text-xl font-semibold mt-6 mb-3 text-gray-900 dark:text-gray-100">
@@ -710,10 +714,10 @@ export default function EEATermsOfService() {
           Agreement, including we believe you are attempting to engage in
           currency trading or other trading for purposes not permitted by this
           Agreement. We will endeavor to notify you of any refusal, using the
-          contact information in your UAB Wind Technologies Account, stating (where
-          possible) the reasons for such refusal and explaining how to correct
-          any errors. However, we will not notify you if such notification may
-          be unlawful.
+          contact information in your UAB Wind Technologies Account, stating
+          (where possible) the reasons for such refusal and explaining how to
+          correct any errors. However, we will not notify you if such
+          notification may be unlawful.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -723,9 +727,9 @@ export default function EEATermsOfService() {
           Once we have received your currency or token conversion order, we will
           send you a confirmation by email that we have received the order. Each
           currency conversion order is given a unique transaction number which
-          is shown in the transaction history on your UAB Wind Technologies Account.
-          You should quote this transaction number when communicating with us
-          about a particular currency conversion order.
+          is shown in the transaction history on your UAB Wind Technologies
+          Account. You should quote this transaction number when communicating
+          with us about a particular currency conversion order.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">
@@ -740,11 +744,11 @@ export default function EEATermsOfService() {
           <strong>
             10.1 Information you need to provide to set up a payment order.
           </strong>{" "}
-          To set up a payment order via your UAB Wind Technologies Account, you may
-          need to provide certain information to us, including, but not limited
-          to, the full name of your recipient, your recipient's bank account
-          details or their UAB Wind Technologies account details and amount to be
-          transferred.
+          To set up a payment order via your UAB Wind Technologies Account, you
+          may need to provide certain information to us, including, but not
+          limited to, the full name of your recipient, your recipient's bank
+          account details or their UAB Wind Technologies account details and
+          amount to be transferred.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -856,37 +860,39 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>11.1</strong> All right, title and interest in and to any
-          software (including without limitation the App, the UAB Wind Technologies
-          website, the API, developer tools, sample source code, and code
-          libraries), data, materials, content and printed and electronic
-          documentation (including any specifications and integration guides)
-          developed, provided or made available by us or our affiliates to you,
-          including content of the UAB Wind Technologies website, and any and all
-          technology and any content created or derived from any of the
-          foregoing ("UAB Wind Technologies Materials") and our Services are the
-          exclusive property of UAB Wind Technologies and its licensors. The Wind
-          Technologies Materials and Services are protected by intellectual
+          software (including without limitation the App, the UAB Wind
+          Technologies website, the API, developer tools, sample source code,
+          and code libraries), data, materials, content and printed and
+          electronic documentation (including any specifications and integration
+          guides) developed, provided or made available by us or our affiliates
+          to you, including content of the UAB Wind Technologies website, and
+          any and all technology and any content created or derived from any of
+          the foregoing ("UAB Wind Technologies Materials") and our Services are
+          the exclusive property of UAB Wind Technologies and its licensors. The
+          Wind Technologies Materials and Services are protected by intellectual
           property rights laws and treaties around the world. All such rights
           are reserved.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>11.2 How you can use UAB Wind Technologies Materials.</strong>{" "}
-          While you are using our Services, you may use the UAB Wind Technologies
-          Materials only for your personal use and solely as necessary to enjoy
-          our Services. Subject to your compliance with this Agreement and your
-          payment of any applicable fees, UAB Wind Technologies grants you a
-          revocable, non-exclusive, non-sublicensable, non-transferable,
-          royalty-free limited license to access and/or make personal use of the
-          UAB Wind Technologies Materials and Services. Any use of the Wind
-          Technologies Materials and Services not specifically permitted under
-          this Agreement is strictly prohibited. The licenses granted by Wind
-          Technologies terminate if you do not comply with this Agreement or any
-          other service terms.
+          While you are using our Services, you may use the UAB Wind
+          Technologies Materials only for your personal use and solely as
+          necessary to enjoy our Services. Subject to your compliance with this
+          Agreement and your payment of any applicable fees, UAB Wind
+          Technologies grants you a revocable, non-exclusive, non-sublicensable,
+          non-transferable, royalty-free limited license to access and/or make
+          personal use of the UAB Wind Technologies Materials and Services. Any
+          use of the Wind Technologies Materials and Services not specifically
+          permitted under this Agreement is strictly prohibited. The licenses
+          granted by Wind Technologies terminate if you do not comply with this
+          Agreement or any other service terms.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>11.3 When you cannot use UAB Wind Technologies Materials.</strong>{" "}
+          <strong>
+            11.3 When you cannot use UAB Wind Technologies Materials.
+          </strong>{" "}
           Unless you have received written permission from us, you may not, and
           may not attempt to, directly or indirectly:
         </p>
@@ -898,8 +904,8 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           (b) transfer, sublicense, loan, sell, assign, lease, rent, distribute
-          or grant rights in the Services or the UAB Wind Technologies Materials to
-          any person or entity;
+          or grant rights in the Services or the UAB Wind Technologies Materials
+          to any person or entity;
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -914,32 +920,32 @@ export default function EEATermsOfService() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          (e) reverse engineer, disassemble, or decompile the UAB Wind Technologies
-          Materials or the Services or apply any other process or procedure to
-          derive the source code of any software included in the Wind
-          Technologies Materials or as part of the Services.
+          (e) reverse engineer, disassemble, or decompile the UAB Wind
+          Technologies Materials or the Services or apply any other process or
+          procedure to derive the source code of any software included in the
+          Wind Technologies Materials or as part of the Services.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>11.4 UAB Wind Technologies Trademarks.</strong> A non-exhaustive
-          list of UAB Wind Technologies Trademarks is enclosed below. "Wind
-          Technologies", "Fin (Formerly Pipes)" and any other business and
-          service names, logos, signs, graphics, page headers, button icons
-          and/or scripts (each as might be amended from time to time) are all
-          registered or unregistered trademarks or trade dress of Wind
-          Technologies or UAB Wind Technologies's licensors in the relevant
+          <strong>11.4 UAB Wind Technologies Trademarks.</strong> A
+          non-exhaustive list of UAB Wind Technologies Trademarks is enclosed
+          below. "Wind Technologies", "Fin (Formerly Pipes)" and any other
+          business and service names, logos, signs, graphics, page headers,
+          button icons and/or scripts (each as might be amended from time to
+          time) are all registered or unregistered trademarks or trade dress of
+          Wind Technologies or UAB Wind Technologies's licensors in the relevant
           jurisdictions ("UAB Wind Technologies Trademarks"). You may not copy,
-          imitate, modify or use UAB Wind Technologies Trademarks without our prior
-          written consent. You may use HTML logos provided by us for the purpose
-          of directing web traffic to the Services. You may not alter, modify or
-          change these HTML logos in any way, use them in a manner that
-          mischaracterizes UAB Wind Technologies or the UAB Wind Technologies services
-          or display them in any manner that implies UAB Wind Technologies's
-          sponsorship or endorsement. Further, you may not use UAB Wind Technologies
-          Trademarks and trade dress in connection with any product or service
-          that is not UAB Wind Technologies's, in any manner that is likely to cause
-          confusion among customers, or in any manner that disparages or
-          discredits UAB Wind Technologies.
+          imitate, modify or use UAB Wind Technologies Trademarks without our
+          prior written consent. You may use HTML logos provided by us for the
+          purpose of directing web traffic to the Services. You may not alter,
+          modify or change these HTML logos in any way, use them in a manner
+          that mischaracterizes UAB Wind Technologies or the UAB Wind
+          Technologies services or display them in any manner that implies UAB
+          Wind Technologies's sponsorship or endorsement. Further, you may not
+          use UAB Wind Technologies Trademarks and trade dress in connection
+          with any product or service that is not UAB Wind Technologies's, in
+          any manner that is likely to cause confusion among customers, or in
+          any manner that disparages or discredits UAB Wind Technologies.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -1154,10 +1160,11 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           (d) the payment transaction was unauthorized but you have with intent
-          or gross negligence compromised the security of your UAB Wind Technologies
-          Account or failed to comply with your obligations to use your Wind
-          Technologies Account in the manner set out in this Agreement. In such
-          a case you shall be solely liable for all losses; or
+          or gross negligence compromised the security of your UAB Wind
+          Technologies Account or failed to comply with your obligations to use
+          your Wind Technologies Account in the manner set out in this
+          Agreement. In such a case you shall be solely liable for all losses;
+          or
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -1189,16 +1196,16 @@ export default function EEATermsOfService() {
         <p className="text-gray-700 dark:text-gray-300">
           <strong>14.9 What happens if you owe us money?</strong> In the event
           you are liable for any amounts owed to us for whatever reason, we may
-          immediately remove such amounts from your UAB Wind Technologies Account
-          (if available). If there are insufficient funds in your Wind
+          immediately remove such amounts from your UAB Wind Technologies
+          Account (if available). If there are insufficient funds in your Wind
           Technologies Account to cover your liability, you agree to repay the
           outstanding amount to us immediately on demand along with any
           applicable fees and interest. In the event that you do not repay the
           outstanding amount then, without prejudice to any other rights we may
           have, we reserve the right to collect your debt to us by using any
-          payments received in your UAB Wind Technologies Account or to fund a Money
-          Transfer and otherwise you agree to reimburse us through other means.
-          We may also recover amounts you owe us through other collection
+          payments received in your UAB Wind Technologies Account or to fund a
+          Money Transfer and otherwise you agree to reimburse us through other
+          means. We may also recover amounts you owe us through other collection
           avenues, including, without limitation, through the use of a debt
           collection agency. We may recover all reasonable costs or expenses
           (including reasonable attorneys' fees and expenses) incurred in
@@ -1207,8 +1214,8 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>14.10 Release.</strong> If you have a dispute with any other
-          UAB Wind Technologies Account holder or a third party that you send money
-          to or receive money from using the Services, you release Wind
+          UAB Wind Technologies Account holder or a third party that you send
+          money to or receive money from using the Services, you release Wind
           Technologies from any and all claims, demands and damages (actual and
           consequential) of every kind and nature, known and unknown, arising
           out of or in any way connected with such disputes. In entering into
@@ -1221,8 +1228,8 @@ export default function EEATermsOfService() {
         <p className="text-gray-700 dark:text-gray-300">
           <strong>14.11 Disclaimer of Warranty.</strong> The Services are
           provided "As-Is" "Where Is" and "Where Available" and without any
-          representation or warranty, whether express, implied or statutory.
-          UAB Wind Technologies specifically disclaims any implied warranties of
+          representation or warranty, whether express, implied or statutory. UAB
+          Wind Technologies specifically disclaims any implied warranties of
           title, merchantability, fitness for a particular purpose and
           non-infringement. We disclaim all warranties with respect to the
           Services to the fullest extent permissible under applicable law,
@@ -1293,13 +1300,13 @@ export default function EEATermsOfService() {
           To access the Interface, you must use a non-custodial wallet software,
           which allows you to interact with public blockchains. Your
           relationship with that non-custodial wallet provider is governed by
-          the applicable terms of service (with respect to the Fin Wallet,
-          this Agreement, and with respect to a third party wallet, the
-          applicable terms of service of such third party). We do not have
-          custody or control over the contents of your wallet and have no
-          ability to retrieve or transfer its contents. By connecting your
-          wallet to our Interface, you agree to be bound by this Agreement and
-          all of the terms incorporated herein by reference.
+          the applicable terms of service (with respect to the Fin Wallet, this
+          Agreement, and with respect to a third party wallet, the applicable
+          terms of service of such third party). We do not have custody or
+          control over the contents of your wallet and have no ability to
+          retrieve or transfer its contents. By connecting your wallet to our
+          Interface, you agree to be bound by this Agreement and all of the
+          terms incorporated herein by reference.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">

@@ -27,7 +27,7 @@ const nextConfig: NextConfig = {
       //   permanent: false,
       // },
     ];
-  }
+  },
 };
 
 export default nextConfig;

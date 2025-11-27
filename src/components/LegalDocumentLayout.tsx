@@ -11,7 +11,7 @@ interface LegalDocumentLayoutProps {
 
 export default function LegalDocumentLayout({
   title,
-  region,
+  region: _region,
   emoji,
   showDisclaimer = false,
   disclaimerVariant = "yellow",

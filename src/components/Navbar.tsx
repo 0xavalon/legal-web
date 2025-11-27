@@ -1,9 +1,9 @@
 "use client";
 
-import Link from "next/link";
 import Image from "next/image";
-import ThemeToggle from "./ThemeToggle";
+import Link from "next/link";
 import { NAVBAR_DATA } from "@/constant/components";
+import ThemeToggle from "./ThemeToggle";
 
 export default function Navbar() {
   return (
