@@ -35,7 +35,8 @@ export interface HomePageData {
 export const HOME_PAGE_DATA: HomePageData = {
   hero: {
     title: "LEGAL DOCUMENTS",
-    subtitle: "Transparent terms and policies for our global payments platform",
+    subtitle:
+      "Fin, Inc. is the Delaware holding company that operates Fin.com platform. All regulated activities are performed only through its licensed subsidiaries—Wind Technologies Limited (UAE) and Wind Technologies UAB (Lithuania)",
     buttons: [
       {
         label: "Contact Compliance",

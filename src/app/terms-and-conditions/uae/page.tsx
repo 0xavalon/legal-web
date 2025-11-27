@@ -1293,13 +1293,13 @@ export default function UAETermsOfService() {
           To access the Interface, you must use a non-custodial wallet software,
           which allows you to interact with public blockchains. Your
           relationship with that non-custodial wallet provider is governed by
-          the applicable terms of service (with respect to the Fin Wallet,
-          this Agreement, and with respect to a third party wallet, the
-          applicable terms of service of such third party). We do not have
-          custody or control over the contents of your wallet and have no
-          ability to retrieve or transfer its contents. By connecting your
-          wallet to our Interface, you agree to be bound by this Agreement and
-          all of the terms incorporated herein by reference.
+          the applicable terms of service (with respect to the Fin Wallet, this
+          Agreement, and with respect to a third party wallet, the applicable
+          terms of service of such third party). We do not have custody or
+          control over the contents of your wallet and have no ability to
+          retrieve or transfer its contents. By connecting your wallet to our
+          Interface, you agree to be bound by this Agreement and all of the
+          terms incorporated herein by reference.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">

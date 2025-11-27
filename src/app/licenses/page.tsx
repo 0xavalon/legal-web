@@ -1,7 +1,7 @@
 import {
+  COMPANY_INFO,
   LICENSES,
   UAE_NOTICE_SECTIONS,
-  COMPANY_INFO,
 } from "@/constant/licenses";
 
 export default function Licenses() {

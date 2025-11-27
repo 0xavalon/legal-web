@@ -4,7 +4,7 @@ interface DisclaimerProps {
 
 export default function Disclaimer({ variant = "yellow" }: DisclaimerProps) {
   const isYellow = variant === "yellow";
-  const isRed = variant === "red";
+  const _isRed = variant === "red";
 
   const containerClasses = isYellow
     ? "bg-gradient-to-br from-yellow-50 to-yellow-100 dark:bg-gradient-to-br dark:from-yellow-900/20 dark:to-yellow-800/20"

@@ -15,7 +15,7 @@ export default function ThemeToggle() {
       document.documentElement.classList.toggle("dark", savedTheme === "dark");
     } else {
       const prefersDark = window.matchMedia(
-        "(prefers-color-scheme: dark)"
+        "(prefers-color-scheme: dark)",
       ).matches;
       const initialTheme = prefersDark ? "dark" : "light";
       setTheme(initialTheme);
@@ -34,6 +34,7 @@ export default function ThemeToggle() {
   if (!mounted) {
     return (
       <button
+        type="button"
         className="p-2 rounded-lg bg-gray-200 dark:bg-gray-800"
         aria-label="Toggle theme"
       >
@@ -44,6 +45,7 @@ export default function ThemeToggle() {
 
   return (
     <button
+      type="button"
       onClick={toggleTheme}
       className="p-2 rounded-lg bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors"
       aria-label={`Switch to ${theme === "light" ? "dark" : "light"} mode`}
@@ -58,6 +60,7 @@ export default function ThemeToggle() {
           viewBox="0 0 24 24"
           xmlns="http://www.w3.org/2000/svg"
         >
+          <title>Moon icon</title>
           <path
             strokeLinecap="round"
             strokeLinejoin="round"
@@ -74,6 +77,7 @@ export default function ThemeToggle() {
           viewBox="0 0 24 24"
           xmlns="http://www.w3.org/2000/svg"
         >
+          <title>Sun icon</title>
           <path
             strokeLinecap="round"
             strokeLinejoin="round"

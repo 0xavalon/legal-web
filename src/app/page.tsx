@@ -1,7 +1,7 @@
 import Image from "next/image";
+import Button from "@/components/Button";
 import Disclaimer from "@/components/Disclaimer";
 import LegalDocumentsLinks from "@/components/LegalDocumentsLinks";
-import Button from "@/components/Button";
 import { HOME_PAGE_DATA } from "@/constant/home-page";
 
 export default function Home() {

@@ -1,5 +1,5 @@
-import Button from "./Button";
 import { FOOTER_DATA } from "@/constant/components";
+import Button from "./Button";
 
 export default function Footer() {
   return (
