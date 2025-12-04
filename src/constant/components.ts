@@ -301,9 +301,9 @@ export interface NavbarData {
 export const NAVBAR_DATA: NavbarData = {
   logo: {
     src: "/logo.svg",
-    alt: "Fin Logo",
-    width: 50,
-    height: 40,
+    alt: "Fin.com",
+    width: 161,
+    height: 33,
   },
   navigation: [
     {

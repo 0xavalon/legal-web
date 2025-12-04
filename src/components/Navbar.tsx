@@ -17,7 +17,7 @@ export default function Navbar() {
               alt={NAVBAR_DATA.logo.alt}
               width={NAVBAR_DATA.logo.width}
               height={NAVBAR_DATA.logo.height}
-              className="dark:invert"
+              className="dark:invert w-32"
               priority
             />
           </Link>

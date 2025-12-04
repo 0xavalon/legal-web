@@ -15,10 +15,10 @@ export default function Home() {
             <div className="mb-8 flex justify-center">
               <Image
                 src="/logo.svg"
-                alt="Fin Logo"
-                width={100}
-                height={80}
-                className="invert"
+                alt="Fin.com"
+                width={161}
+                height={33}
+                className="invert w-32"
                 priority
               />
             </div>
