@@ -258,7 +258,7 @@ export default function EEAPrivacyPolicy() {
           refer to our Terms of Use. To the extent permitted by applicable law,
           Fin.com expressly disclaims any liability that may arise should any
           other third parties obtain the Personal Data you submit through fraud
-          or otherwise where it is no fault of Fin.
+          or otherwise where it is no fault of Fin.com.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">
@@ -384,7 +384,7 @@ export default function EEAPrivacyPolicy() {
           (c) if we are under a duty to disclose or share your personal data in
           order to comply with any legal obligation, or in order to enforce or
           apply our Customer Agreement and other applicable agreements; or to
-          protect the rights, property, or safety of Fin, our customers, or
+          protect the rights, property, or safety of Fin.com, our customers, or
           others. This includes exchanging information with other companies and
           organizations for the purposes of fraud protection and credit risk
           reduction;
