@@ -25,7 +25,7 @@ export default function EEATermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>1.1 This Agreement.</strong> This is the contract between you,
-          the "User", and UAB Wind Technologies ("Fin", "us", "we", "our"),
+          the "User", and UAB Wind Technologies ("Fin.com", "us", "we", "our"),
           which defines the terms and conditions on which we provide our
           Services to you ("Agreement"). This Agreement refers to and
           incorporates by reference the following additional documents
@@ -929,7 +929,7 @@ export default function EEATermsOfService() {
         <p className="text-gray-700 dark:text-gray-300">
           <strong>11.4 UAB Wind Technologies Trademarks.</strong> A
           non-exhaustive list of UAB Wind Technologies Trademarks is enclosed
-          below. "Wind Technologies", "Fin (Formerly Pipes)" and any other
+          below. "Wind Technologies", "Fin.com (Formerly Pipes)" and any other
           business and service names, logos, signs, graphics, page headers,
           button icons and/or scripts (each as might be amended from time to
           time) are all registered or unregistered trademarks or trade dress of
@@ -1300,13 +1300,13 @@ export default function EEATermsOfService() {
           To access the Interface, you must use a non-custodial wallet software,
           which allows you to interact with public blockchains. Your
           relationship with that non-custodial wallet provider is governed by
-          the applicable terms of service (with respect to the Fin Wallet, this
-          Agreement, and with respect to a third party wallet, the applicable
-          terms of service of such third party). We do not have custody or
-          control over the contents of your wallet and have no ability to
-          retrieve or transfer its contents. By connecting your wallet to our
-          Interface, you agree to be bound by this Agreement and all of the
-          terms incorporated herein by reference.
+          the applicable terms of service (with respect to the Fin.com Wallet,
+          this Agreement, and with respect to a third party wallet, the
+          applicable terms of service of such third party). We do not have
+          custody or control over the contents of your wallet and have no
+          ability to retrieve or transfer its contents. By connecting your
+          wallet to our Interface, you agree to be bound by this Agreement and
+          all of the terms incorporated herein by reference.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">
@@ -1326,7 +1326,7 @@ export default function EEATermsOfService() {
           for any associated wallet and we are not liable for any acts or
           omissions by you in connection with or as a result of your wallet
           being compromised. For the avoidance of doubt, any references herein
-          to a "wallet" shall include the Fin Wallet.
+          to a "wallet" shall include the Fin.com Wallet.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">

@@ -190,10 +190,10 @@ export default function UAEPrivacyPolicy() {
           3. How do we protect your information
         </h2>
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>3.1</strong> Fin makes every effort to ensure that your
-          Personal Data is secure on its system. Fin has staff dedicated to
+          <strong>3.1</strong> Fin.com makes every effort to ensure that your
+          Personal Data is secure on its system. Fin.com has staff dedicated to
           maintaining our data protection and security policies, periodically
-          reviewing them, and making sure that Fin employees are aware of our
+          reviewing them, and making sure that Fin.com employees are aware of our
           data protection and security practices.
         </p>
 
@@ -213,8 +213,8 @@ export default function UAEPrivacyPolicy() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>3.4</strong> Fin has established policies and procedures for
-          securely managing information and protecting Personal Data against
+          <strong>3.4</strong> Fin.com has established policies and procedures
+          for securely managing information and protecting Personal Data against
           unauthorized access. We continually assess our data privacy,
           information management and security practices. We do this in the
           following ways:
@@ -254,11 +254,11 @@ export default function UAEPrivacyPolicy() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>3.5</strong> If you have any further questions about our
-          security and processing activities, please contact the Fin team or
+          security and processing activities, please contact the Fin.com team or
           refer to our Terms of Use. To the extent permitted by applicable law,
-          Fin expressly disclaims any liability that may arise should any other
-          third parties obtain the Personal Data you submit through fraud or
-          otherwise where it is no fault of Fin.
+          Fin.com expressly disclaims any liability that may arise should any
+          other third parties obtain the Personal Data you submit through fraud
+          or otherwise where it is no fault of Fin.com.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">
@@ -384,7 +384,7 @@ export default function UAEPrivacyPolicy() {
           (c) if we are under a duty to disclose or share your personal data in
           order to comply with any legal obligation, or in order to enforce or
           apply our Customer Agreement and other applicable agreements; or to
-          protect the rights, property, or safety of Fin, our customers, or
+          protect the rights, property, or safety of Fin.com, our customers, or
           others. This includes exchanging information with other companies and
           organizations for the purposes of fraud protection and credit risk
           reduction;
@@ -452,13 +452,13 @@ export default function UAEPrivacyPolicy() {
           accordance with the DP Law, other applicable laws and this Policy. By
           submitting your Personal Data (including Log, Device and / or
           Demographic Information), we expect you to understand that such
-          transfer, storing or processing in order for Fin to perform its
+          transfer, storing or processing in order for Fin.com to perform its
           general administrative functions is necessary and will be done in a
           proportionate, lawful manner, including but not limited to responding
           to enquiries you raise via the App or Website Services, oversight of
           the business entities registered in DIFC's jurisdiction or other
           jurisdiction and maintaining contacts for future informational or
-          promotional activities. Unless otherwise notified, Fin does not
+          promotional activities. Unless otherwise notified, Fin.com does not
           ordinarily rely solely on automated decision making when processing
           your Personal Data.
         </p>
@@ -484,7 +484,7 @@ export default function UAEPrivacyPolicy() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>6.4</strong> Fin is not responsible for the accuracy of the
+          <strong>6.4</strong> Fin.com is not responsible for the accuracy of the
           information you provide and will modify or update your Personal Data
           in our databases when you provide updated information or ad hoc upon
           your request, as further outlined below. We will erase or put beyond
@@ -504,9 +504,9 @@ export default function UAEPrivacyPolicy() {
           <strong>6.6</strong> By accessing or using the App or Website Services
           to which this Policy applies, we can reasonably expect that you
           understand that all information submitted by you through the App or
-          Website Services or otherwise to Fin may be used by Fin to support
-          these processing operations, in accordance with applicable laws and
-          its policies.
+          Website Services or otherwise to Fin.com may be used by Fin.com to
+          support these processing operations, in accordance with applicable
+          laws and its policies.
         </p>
 
         <h2 className="text-2xl font-bold mt-8 mb-4 text-gray-900 dark:text-gray-100">
@@ -525,7 +525,7 @@ export default function UAEPrivacyPolicy() {
           8. Retention of your information
         </h2>
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>8.1</strong> As a regulated financial institution, Fin is
+          <strong>8.1</strong> As a regulated financial institution, Fin.com is
           required by law to store some of your personal and transactional data
           beyond the closure of your account with us, see your rights below.
           Your data is only accessed internally on a need to know basis, and it
@@ -592,24 +592,25 @@ export default function UAEPrivacyPolicy() {
           12.1 Marketing and Preferences
         </h3>
         <p className="text-gray-700 dark:text-gray-300">
-          Fin supports Users' legal rights to opt-in or subsequently opt-out of
-          receiving communications from us and our partners. You have the option
-          to ask us not to process your Personal Data for marketing purposes and
-          to remove it from our database, to not receive future communications
-          or to no longer receive our App or Website Services. You may change
-          your preferences at any time. Please note that we may continue to send
-          you transactional or service-related emails despite your desire to not
-          receive promotional or marketing e-mail messages. Additionally, please
-          note that if you elect to opt-out of or unsubscribe from receiving
-          promotional or other similar emails or messaging from one of our
-          Website Services or the App, you may continue to receive promotional
-          emails from our other websites, providers, or other, non-affiliated
-          marketers whose services you may have accessed via Fin Website
-          Services or App. Finally, while we may remove your individual contact
-          information from our professional contacts database, please be aware
-          that if such information is in a different, third party's marketing
-          directory through your request or election, you will need to request
-          removal with such third party directly.
+          Fin.com supports Users' legal rights to opt-in or subsequently opt-out
+          of receiving communications from us and our partners. You have the
+          option to ask us not to process your Personal Data for marketing
+          purposes and to remove it from our database, to not receive future
+          communications or to no longer receive our App or Website Services.
+          You may change your preferences at any time. Please note that we may
+          continue to send you transactional or service-related emails despite
+          your desire to not receive promotional or marketing e-mail messages.
+          Additionally, please note that if you elect to opt-out of or
+          unsubscribe from receiving promotional or other similar emails or
+          messaging from one of our Website Services or the App, you may
+          continue to receive promotional emails from our other websites,
+          providers, or other, non-affiliated marketers whose services you may
+          have accessed via Fin.com Website Services or App. Finally, while we
+          may remove your individual contact information from our professional
+          contacts database, please be aware that if such information is in a
+          different, third party's marketing directory through your request or
+          election, you will need to request removal with such third party
+          directly.
         </p>
 
         <h3 className="text-xl font-semibold mt-6 mb-3 text-gray-900 dark:text-gray-100">

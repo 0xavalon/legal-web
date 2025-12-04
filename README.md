@@ -1,6 +1,6 @@
 # Legal Documentation Website
 
-A Next.js application for hosting legal documents including Terms of Service and Privacy Policies for Fin (Wind Technologies).
+A Next.js application for hosting legal documents including Terms of Service and Privacy Policies for Fin.com (Wind Technologies).
 
 ## � Live Preview
 
@@ -8,7 +8,7 @@ Visit the deployed site or run locally with `pnpm dev`
 
 ## 📋 Project Overview
 
-This project replicates the legal documentation from [Fin Help Center](https://help.fin.com/en/articles/11058454-terms-of-services-and-privacy-policy) as a self-hosted Next.js application.
+This project replicates the legal documentation from [Fin.com Help Center](https://help.fin.com/en/articles/11058454-terms-of-services-and-privacy-policy) as a self-hosted Next.js application.
 
 ## 🏗️ Project Structure
 
@@ -149,7 +149,7 @@ All pages include the Innovation Testing Licence disclaimer with 4 key points ab
 - Verification guide
 - USD Virtual Account information
 - Security Policy
-- Fin Licenses
+- Fin.com Licenses
 
 ## 🔗 External Links
 
@@ -167,5 +167,5 @@ This is a proprietary legal documentation project. Please contact the maintainer
 
 ## 📞 Contact
 
-**Fin Help Center**  
+**Fin.com Help Center**  
 Email: <compliance@fin.com>  

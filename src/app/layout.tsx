@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fin Legal Documents - Terms of Service & Privacy Policy",
+  title: "Fin.com Legal Documents - Terms of Service & Privacy Policy",
   description:
-    "Fin Terms of Service and Privacy Policy for UAE and EEA regions",
+    "Fin.com Terms of Service and Privacy Policy for UAE and EEA regions",
 };
 
 export default function RootLayout({
