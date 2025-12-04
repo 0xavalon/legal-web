@@ -484,13 +484,13 @@ export default function EEAPrivacyPolicy() {
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
-          <strong>6.4</strong> Fin.com is not responsible for the accuracy of the
-          information you provide and will modify or update your Personal Data
-          in our databases when you provide updated information or ad hoc upon
-          your request, as further outlined below. We will erase or put beyond
-          active use your Personal Data upon request, unless we are required to
-          retain it in accordance with DIFC or other applicable laws or to
-          perform agreed services, in which case we align with applicable
+          <strong>6.4</strong> Fin.com is not responsible for the accuracy of
+          the information you provide and will modify or update your Personal
+          Data in our databases when you provide updated information or ad hoc
+          upon your request, as further outlined below. We will erase or put
+          beyond active use your Personal Data upon request, unless we are
+          required to retain it in accordance with DIFC or other applicable laws
+          or to perform agreed services, in which case we align with applicable
           principles such as purpose specification and data minimization.
         </p>
 

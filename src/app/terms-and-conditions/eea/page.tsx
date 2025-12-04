@@ -929,11 +929,11 @@ export default function EEATermsOfService() {
         <p className="text-gray-700 dark:text-gray-300">
           <strong>11.4 UAB Wind Technologies Trademarks.</strong> A
           non-exhaustive list of UAB Wind Technologies Trademarks is enclosed
-          below. "Wind Technologies", "Fin.com (Formerly Pipes)" and any other
-          business and service names, logos, signs, graphics, page headers,
-          button icons and/or scripts (each as might be amended from time to
-          time) are all registered or unregistered trademarks or trade dress of
-          Wind Technologies or UAB Wind Technologies's licensors in the relevant
+          below. "Wind Technologies", "Fin.com" and any other business and
+          service names, logos, signs, graphics, page headers, button icons
+          and/or scripts (each as might be amended from time to time) are all
+          registered or unregistered trademarks or trade dress of Wind
+          Technologies or UAB Wind Technologies's licensors in the relevant
           jurisdictions ("UAB Wind Technologies Trademarks"). You may not copy,
           imitate, modify or use UAB Wind Technologies Trademarks without our
           prior written consent. You may use HTML logos provided by us for the

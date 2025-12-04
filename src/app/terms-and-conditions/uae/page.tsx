@@ -25,11 +25,12 @@ export default function UAETermsOfService() {
 
         <p className="text-gray-700 dark:text-gray-300">
           <strong>1.1 This Agreement.</strong> This is the contract between you,
-          the "User", and Wind Technologies ("Fin.com", "us", "we", "our"), which
-          defines the terms and conditions on which we provide our Services to
-          you ("Agreement"). This Agreement refers to and incorporates by
-          reference the following additional documents ("Additional Documents"),
-          which also apply to your use of our Services:
+          the "User", and Wind Technologies ("Fin.com", "us", "we", "our"),
+          which defines the terms and conditions on which we provide our
+          Services to you ("Agreement"). This Agreement refers to and
+          incorporates by reference the following additional documents
+          ("Additional Documents"), which also apply to your use of our
+          Services:
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">
@@ -923,23 +924,23 @@ export default function UAETermsOfService() {
         <p className="text-gray-700 dark:text-gray-300">
           <strong>11.4 Wind Technologies Trademarks.</strong> A non-exhaustive
           list of Wind Technologies Trademarks is enclosed below. "Wind
-          Technologies", "Fin.com (Formerly Pipes)" and any other business and
-          service names, logos, signs, graphics, page headers, button icons
-          and/or scripts (each as might be amended from time to time) are all
-          registered or unregistered trademarks or trade dress of Wind
-          Technologies or Wind Technologies's licensors in the relevant
-          jurisdictions ("Wind Technologies Trademarks"). You may not copy,
-          imitate, modify or use Wind Technologies Trademarks without our prior
-          written consent. You may use HTML logos provided by us for the purpose
-          of directing web traffic to the Services. You may not alter, modify or
-          change these HTML logos in any way, use them in a manner that
-          mischaracterizes Wind Technologies or the Wind Technologies services
-          or display them in any manner that implies Wind Technologies's
-          sponsorship or endorsement. Further, you may not use Wind Technologies
-          Trademarks and trade dress in connection with any product or service
-          that is not Wind Technologies's, in any manner that is likely to cause
-          confusion among customers, or in any manner that disparages or
-          discredits Wind Technologies.
+          Technologies", "Fin.com" and any other business and service names,
+          logos, signs, graphics, page headers, button icons and/or scripts
+          (each as might be amended from time to time) are all registered or
+          unregistered trademarks or trade dress of Wind Technologies or Wind
+          Technologies's licensors in the relevant jurisdictions ("Wind
+          Technologies Trademarks"). You may not copy, imitate, modify or use
+          Wind Technologies Trademarks without our prior written consent. You
+          may use HTML logos provided by us for the purpose of directing web
+          traffic to the Services. You may not alter, modify or change these
+          HTML logos in any way, use them in a manner that mischaracterizes Wind
+          Technologies or the Wind Technologies services or display them in any
+          manner that implies Wind Technologies's sponsorship or endorsement.
+          Further, you may not use Wind Technologies Trademarks and trade dress
+          in connection with any product or service that is not Wind
+          Technologies's, in any manner that is likely to cause confusion among
+          customers, or in any manner that disparages or discredits Wind
+          Technologies.
         </p>
 
         <p className="text-gray-700 dark:text-gray-300">

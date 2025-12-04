@@ -14,9 +14,9 @@ export default function Licenses() {
             FIN.COM LICENSES
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-4xl">
-            Fin.com operates through multiple legal entities with proper licensing
-            across different jurisdictions to provide secure and compliant
-            services.
+            Fin.com operates through multiple legal entities with proper
+            licensing across different jurisdictions to provide secure and
+            compliant services.
           </p>
         </div>
       </div>
