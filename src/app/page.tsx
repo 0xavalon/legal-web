@@ -12,7 +12,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-br from-black via-gray-900 to-black" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-32">
           <div className="text-center mb-12">
-            <div className="mb-8 flex justify-center">
+            {/* <div className="mb-8 flex justify-center">
               <Image
                 src="/logo.svg"
                 alt="Fin.com"
@@ -21,7 +21,7 @@ export default function Home() {
                 className="invert w-32"
                 priority
               />
-            </div>
+            </div> */}
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">
               {HOME_PAGE_DATA.hero.title}
             </h1>
