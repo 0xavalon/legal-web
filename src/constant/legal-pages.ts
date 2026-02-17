@@ -96,6 +96,18 @@ export const THIRD_PARTY_DATA = {
           "https://www.bridge.xyz/legal/row-user-terms/bridge-building-limited",
       },
     },
+    {
+      name: "Noah",
+      icon: "🔗",
+      subtitle: "Payment Services Partner",
+      description:
+        "Our services integrate with Noah. Please review their terms of service and privacy policy",
+      links: {
+        tos: "https://noah.com/en/terms-of-service",
+        privacy:
+          "https://noah.com/en/privacy-notice",
+      },
+    },
   ] as ThirdPartyService[],
   notice: {
     title: "Important Notice",
